@@ -245,7 +245,7 @@ function App() {
               <div className="eyebrow"><span className="status-dot" /> OPEN TO THE NEXT CHALLENGE</div>
               <h2>Have a project<br />in mind<span>?</span></h2>
               <p>I'm interested in junior software development roles, especially within full-stack development and applied AI.</p>
-              <a className="button button-primary cv-button" href={`${import.meta.env.BASE_URL}Srecko_Radivojevic_CV_pdf.pdf`} download><Download size={16} /> Download CV</a>
+              <a className="button button-primary cv-button" href={`${import.meta.env.BASE_URL}Srecko_Radivojevic_CV.pdf`} download><Download size={16} /> Download CV</a>
             </div>
             <div className="contact-links">
               <a href="https://github.com/momfy11" target="_blank" rel="noreferrer"><Github size={19} /> GitHub <ArrowUpRight size={15} /></a>
